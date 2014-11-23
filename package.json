@@ -1,6 +1,6 @@
 {
 	"name": "passport-soundtrap",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "OAuth2 client authentication for Soundtrap using passport.js",
 	"keywords": ["soundtrap", "passport", "oauth2", "auth", "authentication", "identity", "api", "json"],
 	"author": "kdi",
