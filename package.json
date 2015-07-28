@@ -1,19 +1,19 @@
 {
-	"name": "passport-soundtrap",
+	"name": "passport-streamsonic",
 	"version": "0.1.0",
-	"description": "OAuth2 client authentication for Soundtrap using passport.js",
-	"keywords": ["soundtrap", "passport", "oauth2", "auth", "authentication", "identity", "api", "json"],
+	"description": "OAuth2 client authentication for Streamsonic using passport.js",
+	"keywords": ["streamsonic", "passport", "oauth2", "auth", "authentication", "identity", "api", "json"],
 	"author": "kdi",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
 	],
-	"homepage": "http://soundtrap.net",
+	"homepage": "http://streamsonic.net",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/soundtrap/passport.git"
+		"url": "git://github.com/streamsonic/passport.git"
 	},
 	"bugs": {
-		"url": "http://github.com/soundtrap/passport/issues"
+		"url": "http://github.com/streamsonic/passport/issues"
 	},
 	"licenses": [{
 		"type": "MIT",
