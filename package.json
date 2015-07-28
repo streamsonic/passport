@@ -1,6 +1,6 @@
 {
 	"name": "passport-streamsonic",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "OAuth2 client authentication for Streamsonic using passport.js",
 	"keywords": ["streamsonic", "passport", "oauth2", "auth", "authentication", "identity", "api", "json"],
 	"author": "kdi",
